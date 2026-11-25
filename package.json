@@ -1,0 +1,12 @@
+{
+  "description": "The 3AM Fridge Text — one line a smart fridge texts its owner at 3am.",
+  "license": "MIT",
+  "main": "main.ts",
+  "name": "u-deysumbrella-the-3am-fridge-text-4c3e721d",
+  "private": true,
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
